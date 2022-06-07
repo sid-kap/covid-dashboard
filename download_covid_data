@@ -1,0 +1,1 @@
+rm -rf us-counties.csv && wget https://rawcdn.githack.com/nytimes/covid-19-data/master/us-counties.csv

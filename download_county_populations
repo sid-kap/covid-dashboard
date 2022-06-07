@@ -1,0 +1,1 @@
+rm -rf co-est2020-alldata.csv && wget https://raw.githack.com/sid-kap/housing-data-data/main/data/population/county/co-est2020-alldata.csv
